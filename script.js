@@ -11,4 +11,5 @@ function change () {
     });
     document.getElementsByClassName("advice")[0].innerHTML = advice;
     document.getElementsByClassName("number")[0].innerHTML = "Advice # " + number;
+    
 };
